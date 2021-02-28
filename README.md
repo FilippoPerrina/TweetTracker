@@ -14,7 +14,7 @@ TweetTracker is a software that collects and analyzes tweet.
 5. Open a Web page on your browser using as URL [localhost:3000].
 6. Enjoy the application!
 
-The team
+The team:
 Lorenzo Ramponi
 Filippo Perrina
 Giacomo Panzacchi 
