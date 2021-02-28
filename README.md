@@ -15,10 +15,10 @@ TweetTracker is a software that collects and analyzes tweet.
 6. Enjoy the application!
 
 The team:
-Lorenzo Ramponi
-Filippo Perrina
-Giacomo Panzacchi 
-Daniel Maura
-Cristian Mazza
-Marco Spallone
+-Lorenzo Ramponi
+-Filippo Perrina
+-Giacomo Panzacchi 
+-Daniel Maura
+-Cristian Mazza
+-Marco Spallone
  
